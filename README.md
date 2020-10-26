@@ -2,9 +2,9 @@
 This is the pytorch implement for our paper ["SHOW AND SPEAK: DIRECTLY SYNTHESIZE SPOKEN DESCRIPTION OF IMAGES"](https://arxiv.org/abs/2010.12267). More details can be seen in the [project page](https://xinshengwang.github.io/projects/SAS/).
 
 ### Requirements
-python 3.6
-pytorch 1.4.0
-scipy==1.2.1
+python 3.6  
+pytorch 1.4.0  
+scipy  1.2.1  
 
 ### train the code
 #### Download database
