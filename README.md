@@ -42,9 +42,9 @@ python train --data_dir Data_for_SAS --save_path outputs --only_val
 ```
 
 #### Cite
-@article{wang2020show,
-  title={Show and Speak: Directly Synthesize Spoken Description of Images},
-  author={Xinsheng Wang, Siyuan Feng, Jihua Zhu, Mark Hasegawa-Johnson, Odette Scharenborg},
-  journal={arXiv preprint arXiv:arXiv:2010.12267},
-  year={2020}
+@article{wang2020show,  
+  title={Show and Speak: Directly Synthesize Spoken Description of Images},  
+  author={Xinsheng Wang, Siyuan Feng, Jihua Zhu, Mark Hasegawa-Johnson, Odette Scharenborg},  
+  journal={arXiv preprint arXiv:arXiv:2010.12267},  
+  year={2020}  
 }
