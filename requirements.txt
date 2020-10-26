@@ -1,0 +1,9 @@
+matplotlib==3.0.3
+scipy==1.2.1
+inflect==2.1.0
+librosa==0.7.0
+pandas==0.24.2
+Unidecode==1.1.1
+numpy==1.19.2
+Pillow==8.0.1
+torchvision==0.7.0
